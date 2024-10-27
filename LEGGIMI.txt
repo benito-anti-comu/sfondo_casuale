@@ -1,0 +1,2 @@
+Il file per sicurezza ha bisogno dei permessi di amministratore, puo metterci un po che le immagini vengono
+caricate, se volete aggiungere le vostre immagini andate sulla cartella "sfondi" che sta dentro a "sfondi_casuali"
